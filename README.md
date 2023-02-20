@@ -1,5 +1,5 @@
 Hi, I’m Swapnil Garg. 
-I’m interested in Python, C++, Competetive Coding, Machine Learning, Android App Development. 
+I am a Full-stack Web and App Developer
 You can reach out to me on swapnilgarg810@gmail.com
 
 
