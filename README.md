@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/theswapnilgarg" target="blank"><img src="https://img.shields.io/twitter/follow/theswapnilgarg?logo=twitter&style=for-the-badge" alt="theswapnilgarg" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [*coming soon*](*coming soon*)
+- 👨‍💻 All of my projects are available at [(https://swapnilgarg.vercel.app)](my portfolio website)
 
 - 📫 How to reach me **swapnilgarg810@gmail.com**
 
